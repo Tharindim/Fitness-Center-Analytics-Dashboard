@@ -23,4 +23,4 @@ This dashboard supports data-driven decision-making, helping fitness centers imp
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/fitness-center-analytics.git
+git clone https://github.com/tharindim/fitness-center-analytics.git
